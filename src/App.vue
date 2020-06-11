@@ -31,7 +31,6 @@ export default {
   text-align: center;
 }
 .App-header {
-  background-color: #f9f6f6;
   color: #32485f;
   min-height: 100vh;
   display: flex;
